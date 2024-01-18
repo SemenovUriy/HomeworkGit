@@ -39,7 +39,10 @@ git branch -d <название ветки> - удалить ветку
 **Справочник по Markdown от Microsoft**
 https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
+#Картинки
+
+![фрукты](fruits.jpg) 
+
 #Цитаты
 
 Мозг - это суперкомпьютер, который достаётся нам без инструкции по эксплуатации.
-
