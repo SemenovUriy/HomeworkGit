@@ -28,3 +28,8 @@ git diff - увидеть разницу между текущим файлом 
 * Строка - ненумерованные списки, символ “*” в начале строки
 
 1, 2, 3 … - нумерованные списки
+
+#Ссылки
+
+**Справочник по Markdown от Microsoft**
+https://docs.microsoft.com/ru-ru/contribute/markdown-reference
