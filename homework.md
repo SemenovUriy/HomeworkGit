@@ -41,7 +41,7 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 
 # Картинки
 
-![фрукты](C:\Users\t\Desktop\HomeworkGit) 
+![фрукты](fruits.jpg) 
 
 # Цитаты
 
